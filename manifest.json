@@ -1,0 +1,19 @@
+{
+  "name": "GymApp - Nutrición y Dietas",
+  "short_name": "GymApp",
+  "description": "Planificador de dietas y escáner de alimentos con IA",
+  "start_url": "/Gymapp/",
+  "scope": "/Gymapp/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
